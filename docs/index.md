@@ -7,7 +7,7 @@ nav_order: 3
 
 # **HACK MORE – HACKathon on MOdeling & REndering**
 
-The Italian Chapter of **EUROGRAPHICS**, the European Association for Computer Graphics, is proud to announce **HackMore 2025**, the Hackathon on Computer Graphics!
+The Italian Chapter of **EUROGRAPHICS**, the European Association for Computer Graphics, is proud to announce **HackMore 2026**, the Hackathon on Computer Graphics!
 
 Participants are invited to put their **3D modelling** and **3D rendering** skills to the test, combining technical ability and creativity.
 
@@ -26,7 +26,6 @@ The most compelling final imagery wins.
 **November 15, 2026**, from **8:30 AM to 7:00 PM**
 
 **Location:**  
-November 15, 2026
 CAMPUS ITS Steve Jobs Academy, 
 via Madden 153  Catania
 
