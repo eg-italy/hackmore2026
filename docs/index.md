@@ -150,4 +150,9 @@ Teams must submit:
 For information:  
 **fabio.ganovelli@isti.cnr.it**
 
+<img src="assets/images/ncapece.jpg" width="180" class="circle">
 <img src="assets/images/fganovelli.jpg" width="180" class="circle">
+<img src="assets/images/klupinetti.jpg" width="180" class="circle">
+<img src="assets/images/fponchio.jpg" width="180" class="circle">
+<img src="assets/images/rrizza.jpg" width="180" class="circle">
+<img src="assets/images/mtarini.jpg" width="180" class="circle">
