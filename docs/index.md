@@ -150,5 +150,4 @@ Teams must submit:
 For information:  
 **fabio.ganovelli@isti.cnr.it**
 
-<img src="/assets/images/fganovelli.jpg" width="180" style="border-radius:50%; object-fit:cover;">
-<img src="/assets/images/fganovelli.jpg" class="circle">
+<img src="/assets/images/fganovelli.jpg" width="180" class="circle">
