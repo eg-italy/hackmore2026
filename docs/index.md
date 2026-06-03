@@ -154,32 +154,32 @@ For information:
     <div style="text-align: center; width: 190px;">
         <img src="./assets/images/ncapece.jpg" width="180" class="circle" alt="Foto di N. Capece">
         <p style="margin: 5px 0 2px 0; font-weight: bold; font-size: 1.1em;">N. Capece</p>
-        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:n.capece@email.com" style="color: #0366d6; text-decoration: none;">n.capece@email.com</a></p>
+        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:nicola.capece@unibas.it" style="color: #0366d6; text-decoration: none;">nicola.capece@unibas.it</a></p>
     </div>
     <div style="text-align: center; width: 190px;">
         <img src="./assets/images/fganovelli.jpg" width="180" class="circle" alt="Foto di F. Ganovelli">
         <p style="margin: 5px 0 2px 0; font-weight: bold; font-size: 1.1em;">F. Ganovelli</p>
-        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:f.ganovelli@email.com" style="color: #0366d6; text-decoration: none;">f.ganovelli@email.com</a></p>
+        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:fabio.ganovelli@isti.cnr.it" style="color: #0366d6; text-decoration: none;">fabio.ganovelli@isti.cnr.it</a></p>
     </div>
     <div style="text-align: center; width: 190px;">
         <img src="./assets/images/klupinetti.jpg" width="180" class="circle" alt="Foto di K. Lupinetti">
-        <p style="margin: 5px 0 2px 0; font-weight: bold; font-size: 1.1em;">K. Lupinetti</p>
-        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:k.lupinetti@email.com" style="color: #0366d6; text-decoration: none;">k.lupinetti@email.com</a></p>
+        <p style="margin: 5px 0 2px 0; font-weight: bold; font-size: 1.1em;">Katia Lupinetti</p>
+        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:katia.lupinetti@imati.cnr.it" style="color: #0366d6; text-decoration: none;">katia.lupinetti@imati.cnr.it</a></p>
     </div>
     <div style="text-align: center; width: 190px;">
         <img src="./assets/images/fponchio.jpg" width="180" class="circle" alt="Foto di F. Ponchio">
         <p style="margin: 5px 0 2px 0; font-weight: bold; font-size: 1.1em;">F. Ponchio</p>
-        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:f.ponchio@email.com" style="color: #0366d6; text-decoration: none;">f.ponchio@email.com</a></p>
+        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:federico.ponchio@isti.cnr.it" style="color: #0366d6; text-decoration: none;">federico.ponchio@isti.cnr.it</a></p>
     </div>
     <div style="text-align: center; width: 190px;">
         <img src="./assets/images/rrizza.jpg" width="180" class="circle" alt="Foto di R. Rizza">
         <p style="margin: 5px 0 2px 0; font-weight: bold; font-size: 1.1em;">R. Rizza</p>
-        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:r.rizza@email.com" style="color: #0366d6; text-decoration: none;">r.rizza@email.com</a></p>
+        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:rizzaroberto1919@hotmail.com" style="color: #0366d6; text-decoration: none;">rizzaroberto1919@hotmail.com</a></p>
     </div>
     <div style="text-align: center; width: 190px;">
         <img src="./assets/images/mtarini.jpg" width="180" class="circle" alt="Foto di M. Tarini">
         <p style="margin: 5px 0 2px 0; font-weight: bold; font-size: 1.1em;">M. Tarini</p>
-        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:m.tarini@email.com" style="color: #0366d6; text-decoration: none;">m.tarini@email.com</a></p>
+        <p style="margin: 0; font-size: 0.9em;"><a href="mailto:marco.tarini@unimi.it" style="color: #0366d6; text-decoration: none;">marco.tarini@unimi.it</a></p>
     </div>
 
 </div>
