@@ -150,4 +150,4 @@ Teams must submit:
 For information:  
 **fabio.ganovelli@isti.cnr.it**
 
-<img src="assets/images/fganovelli.jpg" width="180" class="circle">
+<img src="hackmore2026/assets/images/fganovelli.jpg" width="180" class="circle">
