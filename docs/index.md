@@ -150,6 +150,8 @@ Teams must submit:
 For information:  
 **fabio.ganovelli@isti.cnr.it**
 
+# **Board**
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <div style="text-align: center; width: 190px;">
         <img src="./assets/images/ncapece.jpg" width="180" class="circle" alt="Foto di N. Capece">
