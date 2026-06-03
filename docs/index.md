@@ -39,8 +39,8 @@ Open to all upon **FREE registration**
 
 # **Prizes and Awards**
 
-- Winning team: **500 €**  
-- Solo participation: **250 €**  
+- Winning team: **1000 €**  
+- Solo participation: **500 €**  
 - Official award from the Italian Chapter of Eurographics
 
 ---
