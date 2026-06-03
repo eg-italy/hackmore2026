@@ -65,6 +65,7 @@ You may:
 ---
 
 # **Registration**
+[![Register Here](https://img.shields.io/badge/REGISTRATION-OPEN_NOW-brightgreen?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSfyH13xnk6tjD8jWvdaqH5eGtb_I8v-3wyl3ipio9nXLuvm2w/viewform?usp=publish-editor)
 
 - Registration is **mandatory**
 - Possible as a team or individually
